@@ -1,5 +1,5 @@
 Rem credits to https://github.com/mariejuku
-set host=https://fullspeed-family.github.io/signs/
+set host=https://fullspeed-family.github.io/signs/Advertisement4x1/
 del *.tga.loc
 del *.png.loc
 del *.webm.loc
